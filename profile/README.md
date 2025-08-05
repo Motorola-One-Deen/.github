@@ -2,7 +2,7 @@
 
 This organization contains device specific sources for Motorola One Deen
 
-Founded by [@Vhmit]([https://github.com/victorlima-legendary](https://github.com/Vhmit), and maintained by [@victor_lima296](https://github.com/victorlima-legendary), feel free to contribute.
+Founded by [@Vhmit](https://github.com/Vhmit) and maintained by [@victor_lima296](https://github.com/victorlima-legendary), feel free to contribute.
 
 <!--
 If you like my work, feel free to donate:
